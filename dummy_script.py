@@ -8,5 +8,5 @@ fifth_var = 4
 ############  Do some computation ###################
 
 third_var = first_var + second_var
-
+sixth_var = fourth_var + fifth_var
 
